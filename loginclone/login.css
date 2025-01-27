@@ -32,13 +32,13 @@ form{
 }
 
 form label{
-    margin: px 0;
+    margin-top: 10px;
 }
 
 form input[type="text"],input[type="password"]{
     height: 55px;
     margin: 5px 0;
-    border: 0.5px solid #b8b8b85d;
+    border: 1px solid #b8b8b85d;
     border-radius: 3px;
     padding: 0 15px;
     font-size: 20px;
